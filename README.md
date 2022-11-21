@@ -9,4 +9,4 @@ Atividade do curso da Proz Tecnologia (META | AWS).
 * JAVASCRIPT  
 
 ## 🌐 Link do projeto :
-* [Pontos-Turístcos]()
+* [Pontos-Turístcos](https://pontos-turisticos-production.up.railway.app/)
